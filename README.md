@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p>I'm a full-stack developer specializing in React, Next.js, NestJS, Node.js, Express, and Tailwind CSS. I love building scalable and efficient web applications.
+</p>
+
 <!--
 **yves137/yves137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
