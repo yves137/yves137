@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a full-stack developer specializing in React, Next.js, NestJS, Node.js, Express, Tailwind CSS, Python, Flask, Machine Learning, Java. I love building Secure, scalable and efficient web & Mobile applications.
+<p>I'm a full-stack developer specializing in React, Next.js, NestJS, Node.js, Express, Tailwind CSS, Python, Flask, Machine Learning, Java and Kotlin. I love building Secure, scalable and efficient web & Mobile applications.
 </p>
 
 <!--
